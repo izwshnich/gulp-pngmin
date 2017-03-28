@@ -1,19 +1,16 @@
 {
   "name": "gulp-pngmin",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "Optimize PNG image plugin for Gulp.",
   "main": "lib/pngmin.js",
   "devDependencies": {
-    "coffee-script": "^1.8.0",
-    "gulp": "^3.8.8",
-    "gulp-coffee": "^2.0.1",
-    "gulp-rimraf": "^0.1.0"
+    "gulp": "^3.9.1"
   },
   "dependencies": {
-    "gulp-util": "^3.0.1",
-    "pngquant": "^0.1.5",
-    "sprintf": "^0.1.4",
-    "through2": "^0.5.1"
+    "gulp-util": "^3.0.8",
+    "pngquant": "^1.2.0",
+    "sprintf": "^0.1.5",
+    "through2": "^2.0.3"
   },
   "repository": {
     "type": "git",
