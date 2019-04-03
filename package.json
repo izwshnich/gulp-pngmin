@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "gulp-util": "^3.0.8",
-    "pngquant": "^1.2.0",
+    "pngquant": "https://github.com/izwshnich/node-pngquant.git",
     "sprintf": "^0.1.5",
     "through2": "^2.0.3"
   },
